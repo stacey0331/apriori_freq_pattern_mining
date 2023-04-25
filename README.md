@@ -1,4 +1,4 @@
-Step 1: put a input file named "test_input.txt" in the same directory as apriori.py. 
+Step 1: put a input file named "test_input.txt" in the same directory as apriori.py. "test_input.txt" has first line as minimum support threshhold, and rest of each line represents an transaction. 
 
 Step 2: in console run "python apriori.py"
 
